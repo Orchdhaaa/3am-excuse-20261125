@@ -1,0 +1,1 @@
+{"description":"The 3 AM Excuse: one line a hardware wallet gives for refusing to sign a transaction at 3 AM. make.fun entry.","license":"MIT","main":"main.ts","name":"3am-excuse-20261125","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
